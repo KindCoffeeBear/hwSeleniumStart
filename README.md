@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4aq08ku0lcea6hyk?svg=true)](https://ci.appveyor.com/project/KindCoffeeBear/hwseleniumstart)
